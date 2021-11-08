@@ -82,12 +82,4 @@ The printer #number has finished the work for one process.
 
 This command moves the process in the printer to the CPU. The process that was in the CPU is pushed back to its ready-queue.
 
-## Run the program
-To compile
-```
-$ make
-```
-To run
-```
-$ ./os
-```
+
